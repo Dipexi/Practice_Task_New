@@ -20,7 +20,7 @@
 Функционал Web API
 1. Получение списка свободных книг.
 2. Изменение информации о книге.
-3. 
+
 1. Spring Boot, MVC.
 2. ORM: Hibernate, Spring Data, Jpa.
 3. RDBMS: MySql, MSSql or PostgreSQL or any other.
